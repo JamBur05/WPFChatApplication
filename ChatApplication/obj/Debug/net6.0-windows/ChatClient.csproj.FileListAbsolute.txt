@@ -18,3 +18,4 @@ C:\Users\james\source\repos\ChatApplication\ChatApplication\obj\Debug\net6.0-win
 C:\Users\james\source\repos\ChatApplication\ChatApplication\obj\Debug\net6.0-windows\ChatClient.pdb
 C:\Users\james\source\repos\ChatApplication\ChatApplication\obj\Debug\net6.0-windows\ChatClient.genruntimeconfig.cache
 C:\Users\james\source\repos\ChatApplication\ChatApplication\obj\Debug\net6.0-windows\ref\ChatClient.dll
+C:\Users\james\source\repos\ChatApplication\ChatApplication\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
