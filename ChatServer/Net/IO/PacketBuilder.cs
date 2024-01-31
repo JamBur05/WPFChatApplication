@@ -15,10 +15,11 @@ namespace ChatServer.Net.IO
             _ms.WriteByte(opcode);
         }
 
-        public void WriteString(string msg)
+        public void WriteMessage(string msg)
         {
             var msgLenghth = msg.Length;
             _ms.Write(BitConverter.GetBytes(msgLenghth));
+            // Write the message string to the MemoryStream as ASCII bytes.
             _ms.Write(Encoding.ASCII.GetBytes(msg));
         }
 
